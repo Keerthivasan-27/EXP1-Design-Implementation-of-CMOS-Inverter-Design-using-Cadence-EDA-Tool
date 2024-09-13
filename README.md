@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![image]![vlsi4](https://github.com/user-attachments/assets/6c0461d7-9b82-4497-b13d-f51e2175c4c6)
+
 
 
  
@@ -64,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![image]![vlsi6](https://github.com/user-attachments/assets/8d3fdd2a-b10d-4a85-a41a-2ed1a84948eb)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +78,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image]![vlsi 3](https://github.com/user-attachments/assets/4c683e14-a46e-4b67-9435-7bb4a26cfc39)
+
 
 
  
@@ -90,19 +93,24 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![image]![vlsi2](https://github.com/user-attachments/assets/dcd3bbc0-2bf5-4e32-ab84-05b27fc24a56)
+
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image]![WhatsApp Image 2024-09-10 at 12 41 14_8f83553a](https://github.com/user-attachments/assets/6e2166eb-a9e9-4ce7-bc57-0b6dc49625d2)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
+ ![image]![vlsi1](https://github.com/user-attachments/assets/d3a9e849-e9b6-4db0-990b-9f2fff6af700)
+
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+ ![vlsi7](https://github.com/user-attachments/assets/42303d96-a8be-4240-a63c-af0b7727766e)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+
+![vlsi8](https://github.com/user-attachments/assets/24725165-ed92-4fd1-acd0-6b88bd00fb49)
+
 
  
 
